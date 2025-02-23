@@ -12,7 +12,7 @@ Tugas kecil ini bertujuan untuk membuat sebuah program penemu solusi dari IQ Puz
 Untuk memulai, clone repositori proyek dengan perintah berikut:
 
 ```shell
-git clone https://github.com/aliyahusnaf/Tucil-1-Stima.git
+git clone https://github.com/aliyahusnaf/Tucil1_13523062.git
 ```
 Setelah itu, buka terminal Anda dan arahkan direktori kerja ke branch src:
 
