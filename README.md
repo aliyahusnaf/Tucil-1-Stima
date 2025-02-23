@@ -31,3 +31,4 @@ Jika ingin menjalankan program melalui GUI,
 2. Run kode dengan ketik command "java graphic.GUI"
 
 Program solver siap dijalankan.
+Aliya Husna Fayyaza - 13523062
