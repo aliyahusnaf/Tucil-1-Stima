@@ -14,7 +14,7 @@ public class GUI extends JFrame {
     private boolean adaSolusi = false;
 
     public GUI() {
-        setTitle("IQ Puzzle Solver");
+        setTitle("IQ Puzzler Pro Solver");
         setSize(600, 700);  
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout(10, 10)); 
