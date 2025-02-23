@@ -34,7 +34,7 @@ public class solver {
             }
             File file = new File(filename);
             if (!file.exists()) {
-                System.out.println("File tidak ditemukan di directory Tucil 1 IQ Puzzler Pro");
+                System.out.println("File tidak ditemukan di direktori");
                 return;
             }
     
